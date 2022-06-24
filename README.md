@@ -1,2 +1,2 @@
 # Trillo-Project
-Front-End project for fictional social-media website!
+Front-End project for fictional hotel website!
